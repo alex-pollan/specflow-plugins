@@ -1,5 +1,7 @@
 # Specflow Plugins
 
+![Pipeline](https://github.com/alex-pollan/specflow-plugins/workflows/Tapmiapp.JsonData.SpecFlowPlugin/badge.svg)
+
 ## Json table generator
 
 This is a plugin to generate an Example for scenarios or scenario outlines.
