@@ -1,8 +1,8 @@
 ﻿<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
   <metadata>
-    <id>Tapmiapp.JsonData</id>
+    <id>Tapmiapp.JsonData.SpecFlowPlugin</id>
     <version>3.4.44-beta</version>
-    <title>Tapmiapp.JsonData</title>
+    <title>Tapmiapp.JsonData.SpecFlowPlugin</title>
     <authors>tapmiapp</authors>
     <owners>tapmiapp</owners>
     <description>Package to use external JSON data in Gherkin scenarios</description>
