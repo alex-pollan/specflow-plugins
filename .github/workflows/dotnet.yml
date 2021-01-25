@@ -1,4 +1,4 @@
-name: .NET
+name: Tapmiapp.JsonData.SpecFlowPlugin
 
 on:
   push:
