@@ -1,7 +1,7 @@
 ﻿<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
   <metadata>
     <id>Tapmiapp.JsonData.SpecFlowPlugin</id>
-    <version>3.4.44-beta</version>
+    <version>3.4.46-beta</version>
     <title>Tapmiapp.JsonData.SpecFlowPlugin</title>
     <authors>tapmiapp</authors>
     <owners>tapmiapp</owners>
