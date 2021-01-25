@@ -22,6 +22,7 @@ jobs:
     - name: Build
       run: dotnet build --no-restore
     - name: Publish NuGet
+      uses: brandedoutcast/publish-nuget@v2.5.5
       with:
         PROJECT_FILE_PATH: src/Tapmiapp.JsonData.SpecFlowPlugin/Tapmiapp.JsonData.SpecFlowPlugin.csproj
         VERSION_REGEX: '^\s*<PackageVersion>(.*)<\/PackageVersion>\s*$'
