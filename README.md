@@ -6,7 +6,7 @@ This is a plugin to generate an Example for scenarios or scenario outlines.
 
 The Example is generated from a JSON file containing an array of objects. Each object is used to generate a row in the Example. At this moment the first object in the array is taken to generate the header.
 
-To use the plugin simply create the JSON file named **testdata.json** in the project root folder and set the tag `jsonTable` in the scenario or scenario outline. 
+To use the plugin simply create the JSON file named **testdata.json** in the project root folder and set the tag `jsontable` in the scenario or scenario outline. 
 
 
 ### Example
